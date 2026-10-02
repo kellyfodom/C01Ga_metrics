@@ -29,3 +29,8 @@ Rédigez un document de synthèse de ce que vous avez appris dans les trois prem
 Organisez votre document en utilisant des titres explicites dans le document. Chaque participant doit effectuer au moins un commit sur le projet et identifier précisément la section dont il ou elle est responsable (indiquez "Rédigé par ..." juste en dessous du titre de la section concernée). Notez bien, cependant, que l'ensemble du groupe est responsable de la totalité du contenu. Chacun doit donc aussi relire les sections des autres. Vous devez vous mettre d'accord sur tout le texte avant finalisation.
 
 Complétez vos connaissances à l'aide d'une brève recherche bibliographique. Citez l'ensemble de vos sources dans ce document.
+
+
+## Utilisation de l'IA générative
+
+Dans le cadre de votre travail, vous avez le droit d'être aidé par l'intelligence artificielle. Le chatbot SciViews est disponible dans votre RStudio Saturn Cloud via l'addin Help. Il répond aux questions concernant le langage R, les statistiques et la science des données. **Vous devez indiquer clairement dans votre travail comment vous avez utilisé l'IA générative, laquelle et pour quoi faire (aide bibliographique, aide au codage en R, aide à la rédaction...)**
